@@ -8,7 +8,7 @@
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <artifactId>maomao-dubbo-interface</artifactId>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
     <name>maomao-dubbo-interface Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
